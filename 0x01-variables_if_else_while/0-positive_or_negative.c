@@ -1,15 +1,6 @@
-Dad, [6/3/2022 4:41 PM]
-
-Is this the code?
-
-🤔🤔🤔
-
 #include <stdlib.h>
-
 #include <time.h>
-
 /* more headers goes there */
-
 /* betty style doc for function main goes there */
 
 int main(void)
